@@ -39,5 +39,12 @@
 - [Биномиальный критерий для доли [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.binomial_test_with_plots.ipynb)
 - [Критерии согласия Пирсона (хи-квадрат) [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.hi2_test.ipynb)
 - [Применение критериев Стьюдента [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.student_tests.ipynb)
+- [Проверка гипотез о долях [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.two_proportions_diff_test.ipynb)
+- [Одновыборочные непараметрические критерии [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.non_parametric_tests_1sample.ipynb)
+- [Двухвыборочные непараметрические критерии (связанные выборки) [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.non_parametric_tests_rel.ipynb)
+- [Двухвыборочные непараметрические критерии (независимые выборки) [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.non_parametric_tests_ind.ipynb)
+- [Поиск взаимосвязей с помощью корреляции [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.correlation.ipynb)
+- [Поправки на множественную проверку при корреляционном анализе [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.multiple_hypothesis_testing.ipynb)
+- [Оценка зависимости с помощью регрессии [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.regression.ipynb)
 
 ## 5 Курс
