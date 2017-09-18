@@ -27,7 +27,10 @@
 - [Случайные леса в sklearn (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.random_forest.ipynb)
 - [Градиентный бустинг в XGBoost (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.rf_vs_gb.ipynb)
 ## 3 Курс
-
+- [Блокнот из примера кластеризации текстов](https://github.com/totaki/yandex-mfti-materials/blob/master/course_3/TextsClusteringExample.ipynb)
+- [Визуализация данных в sklearn](https://github.com/totaki/yandex-mfti-materials/blob/master/course_3/sklearn.data_visualization.ipynb)
+- [Ноутбук из демонстрации использования gensim](https://github.com/totaki/yandex-mfti-materials/blob/master/course_3/gensim.ipynb)
+- [Ноутбук из демонстрации использования BigARTM](https://github.com/totaki/yandex-mfti-materials/blob/master/course_3/BigARTM.ipynb)
 ## 4 Курс
 
 ## 5 Курс
