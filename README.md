@@ -32,5 +32,12 @@
 - [Ноутбук из демонстрации использования gensim](https://github.com/totaki/yandex-mfti-materials/blob/master/course_3/gensim.ipynb)
 - [Ноутбук из демонстрации использования BigARTM](https://github.com/totaki/yandex-mfti-materials/blob/master/course_3/BigARTM.ipynb)
 ## 4 Курс
+- [Доверительные интервалы для среднего [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.mean_conf_int.ipynb)
+- [Доверительные интервалы для доли [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.proporion_conf_int.ipynb)
+- [Доверительные интервалы для двух долей [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.two_proporions_conf_int_upd.ipynb)
+- [Доверительные интервалы на основе бутстрепа [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.bootstrap_intervals.ipynb)
+- [Биномиальный критерий для доли [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.binomial_test_with_plots.ipynb)
+- [Критерии согласия Пирсона (хи-квадрат) [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.hi2_test.ipynb)
+- [Применение критериев Стьюдента [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.student_tests.ipynb)
 
 ## 5 Курс
