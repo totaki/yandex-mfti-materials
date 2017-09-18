@@ -8,12 +8,13 @@
   - [Конспект](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/1-1.Vvedenie.pdf)
 
 - Знакомство с синтаксисом Python:
-  - Чтение данных из файлов (ipython notebook)
-  - Запись файлов, изменение файлов (ipython notebook)
-  - Конспект
+  - [Типы данных (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/Types_in_Python.ipynb)
+  - [Чтение данных из файлов (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/ipython_files_data_reading.ipynb)
+  - [Запись файлов, изменение файлов (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/ipython_files_data_writing.ipynb)
+  - [Конспект](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/1-2.Programmirovanie_na_Python.pdf)
 
 - Производная и её применения:
-  - Конспект
+  - [Конспект](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/1-3.Osnovy-matematicheskogo-analiza.pdf)
 
 ### [Неделя 2](https://www.coursera.org/learn/mathematics-and-python/home/week/2)
 - Библиотеки NumPy, Matplotlib, SciPy, Pandas:
