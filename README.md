@@ -1,6 +1,6 @@
-# [Специализация Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis). Notebooks
+# [Специализация Машинное обучение и анализ данных](https://www.coursera.org/specializations/machine-learning-data-analysis)
 
-Здесь собраны notebooks с данного курса, для быстрого доступа к примерам
+Здесь собраны notebooks с данного курса, для быстрого доступа к примерам.
 
 ## 1 Курс
 - [Знакомство с IPython Notebook](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1)
