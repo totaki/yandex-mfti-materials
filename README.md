@@ -48,3 +48,5 @@
 - [Оценка зависимости с помощью регрессии [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_4/stat.regression.ipynb)
 
 ## 5 Курс
+- [Пример построения прогноза [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_5/wine.ipynb)
+- [Анализ тональности отзывов [ipython notebook]](https://github.com/totaki/yandex-mfti-materials/blob/master/course_5/SimpleSentiment.ipynb)
