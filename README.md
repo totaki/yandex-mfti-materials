@@ -4,8 +4,8 @@
 
 ### [Неделя 1](https://www.coursera.org/learn/mathematics-and-python/home/week/1)
 - Python, уровень 0:
-  - Знакомство с IPython Notebook
-  - Конспект
+  - [Знакомство с IPython Notebook](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/introduction_to_ipython.ipynb)
+  - [Конспект](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/1-1.Vvedenie.pdf)
 
 - Знакомство с синтаксисом Python:
   - Чтение данных из файлов (ipython notebook)
