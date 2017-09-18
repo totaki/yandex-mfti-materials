@@ -16,7 +16,16 @@
 - [Оценка распределения по выборке (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_1/sample_distribution_evaluation.ipynb)
 
 ## 2 Курс
-
+- [Встроенные датасеты. Sklearn.datasets](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.datasets.ipynb)
+- [Кросс-валидация. Sklearn.cross_validation (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.cross_validation.ipynb)
+- [Линейные модели. Sklearn.linear_model. Классификация (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.linear_model_part1.ipynb)
+- [Линейные модели. Sklearn.linear_model. Регрессия (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.linear_model_part2.ipynb)
+- [Метрики качества. Sklearn.metrics (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.metrics.ipynb)
+- [Подбор параметров по сетке. Sklearn.grid_search (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.grid_search.ipynb)
+- [Задача Bike Sharing Demand (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.case_part1.ipynb)
+- [Задача Bike Sharing Demand. Продолжение (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.case_part2.ipynb)
+- [Случайные леса в sklearn (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.random_forest.ipynb)
+- [Градиентный бустинг в XGBoost (ipython notebook)](https://github.com/totaki/yandex-mfti-materials/blob/master/course_2/sklearn.rf_vs_gb.ipynb)
 ## 3 Курс
 
 ## 4 Курс
